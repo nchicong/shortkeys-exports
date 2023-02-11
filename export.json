@@ -1,0 +1,14 @@
+[
+  {
+    "action": "javascript",
+    "key": "alt+1",
+    "sites": "*calendar.google.com*",
+    "sitesArray": [
+      "*calendar.google.com*"
+    ],
+    "code": "document.querySelector('.Xb9hP').click();",
+    "activeInInputs": false,
+    "blacklist": "whitelist",
+    "label": "Calendar Search people"
+  }
+]
